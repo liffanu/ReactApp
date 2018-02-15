@@ -1,0 +1,68 @@
+{
+    "categories": [
+        {
+            "id":"1",
+            "name": "Food",
+            "ordering": "1",
+            "description": "This category is about food"
+        },
+        {
+            "id":"2",
+            "name": "Sport",
+            "ordering": "2",
+            "description": "This category is about sport"
+        },
+        {
+            "id":"3",
+            "name": "Management",
+            "ordering": "3",
+            "description": "This category is about management"
+        },
+        {
+            "id":"4",
+            "name": "Software",
+            "ordering": "4",
+            "description": "This category is about software"
+        }
+    
+    ],
+
+    "posts": [
+        {
+            "id": "1",
+            "title": "post1",
+            "content": "content post1",
+            "author": "author 1 ",
+            "status": "ac",
+            "created_at": "22-03-2014",
+            "category": "1"
+        },
+        {
+            "id": "2",
+            "title": "post2",
+            "content": "content post2",
+            "author": "author 2 ",
+            "status": "ac",
+            "created_at": "22-07-2018",
+            "category": "2"
+        },
+        {
+            "id": "3",
+            "title": "post3",
+            "content": "content post3",
+            "author": "author 3 ",
+            "status": "ac",
+            "created_at": "22-07-2018",
+            "category": "3"
+        },
+        {
+            "id": "4",
+            "title": "post4",
+            "content": "content post4",
+            "author": "author 4 ",
+            "status": "ac",
+            "created_at": "22-07-2019",
+            "category": "4"
+        }
+    ]
+}
